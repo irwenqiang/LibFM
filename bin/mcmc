@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------
+libFM
+  Version: 1.40
+  Author:  Steffen Rendle, steffen.rendle@uni-konstanz.de
+  WWW:     http://www.libfm.org/
+  License: Free for academic use. See license.txt.
+----------------------------------------------------------------------------
+Loading train...	
+has x = 0
+has xt = 1
+num_rows=1000209	num_values=2000418	num_features=9746	min_target=1	max_target=5
+Loading test... 	
+has x = 0
+has xt = 1
+num_rows=1000209	num_values=2000418	num_features=9746	min_target=1	max_target=5
+#relations: 0
+Loading meta data...	
+#Iter=  0	Train=1.03755	Test=1.03755
+#Iter=  1	Train=0.91961	Test=0.961219
+#Iter=  2	Train=0.903133	Test=0.930711
+#Iter=  3	Train=0.901348	Test=0.917447
+#Iter=  4	Train=0.900814	Test=0.910772
+#Iter=  5	Train=0.899242	Test=0.906626
+#Iter=  6	Train=0.895472	Test=0.903384
+#Iter=  7	Train=0.888606	Test=0.899975
+#Iter=  8	Train=0.880849	Test=0.896111
+#Iter=  9	Train=0.872746	Test=0.891792
